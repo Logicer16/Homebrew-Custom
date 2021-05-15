@@ -1,3 +1,3 @@
-# homebrew-formulae
+# Logicer homebrew
 
-Custom Formulae for macOS Homebrew.
+Custom packages for macOS Homebrew.
